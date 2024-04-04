@@ -1,5 +1,3 @@
-# You need to clone the repository
-
 ## Step 1: Set dependencies for Android and iOS
 
 ```bash
