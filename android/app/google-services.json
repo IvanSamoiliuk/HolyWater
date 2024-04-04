@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "515745848631",
+    "project_id": "holywater-c9a64",
+    "storage_bucket": "holywater-c9a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515745848631:android:f83ff9507ce07055dc4eb2",
+        "android_client_info": {
+          "package_name": "com.holywater"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_3VlDbjL6DnMKlJIfcaww7AURMlKGVRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
