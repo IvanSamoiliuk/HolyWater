@@ -11,7 +11,6 @@ import {HWCarousel} from '../components/HWCarousel';
 import {ContentOneItem} from '../components/ContentOneItem';
 import {ContentTwoItem} from '../components/ContentTwoItem';
 import {ContinueComponent} from '../components/ContinueComponent';
-import {FONTS} from '../constants/fonts';
 
 export const HomeScreen = () => {
   const dispatch = useDispatch();
